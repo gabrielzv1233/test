@@ -1,23 +1,7 @@
-## Welcome to GitHub Pages
+</head>
+<body autocomplete="off" data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1045.0" data-new-gr-c-s-loaded="14.1045.0">
+<h1><strong>Welcome!</strong></h1>
 
-You can use the [editor on GitHub](https://github.com/gabrielzv1233/test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p><strong>this is a simple web page so just enjoy</strong></p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-my brother is gay and a hoe what the fuck is wrong with him and why is he so stupid
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gabrielzv1233/test/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p><a dir="ltr" href="https://gabrielzv1233.github.io/test">look at boobs</a>&nbsp;&lt;<s>&nbsp; &nbsp;</s>&nbsp; this is a joke it just opens the web page just look :)</p>
